@@ -1,0 +1,9 @@
+setuptools
+Products.SimpleAttachment
+plone.app.controlpanel
+plone.app.portlets
+plone.portlets
+plone.memoize
+plone.i18n
+python-dateutil
+Plone >= 3.3

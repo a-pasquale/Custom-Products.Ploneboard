@@ -1,0 +1,1 @@
+/opt/Plone-4.0b5/buildout-cache/eggs/plone.app.locales-4.0.0b5-py2.6.egg/plone/app/locales/locales/plone.pot
